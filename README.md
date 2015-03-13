@@ -24,4 +24,9 @@ env.jmxpass bar
 env.jmxurl service:jmx:rmi:///jndi/rmi://localhost:9004/jmxrmi
 env.jmxuser foo
 env.jmxpass bar
+
+[jmx_tomcat_*]
+env.jmxurl service:jmx:rmi:///jndi/rmi://localhost:9004/jmxrmi
+env.jmxuser foo
+env.jmxpass bar
 ```
