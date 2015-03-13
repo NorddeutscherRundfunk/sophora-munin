@@ -1,6 +1,6 @@
 Munin-Plugins für Sophora
 =========
-Mit diesen Plugins ist es möglich die Werte von Sophora (Server sowie Webapp) auszulesen.
+Mit diesen Plugins ist es möglich die Werte von Sophora (Server sowie Webapp) auszulesen. Zudem gibt es Abfragen für den Tomcat.
 
 Benutzung
 =========
