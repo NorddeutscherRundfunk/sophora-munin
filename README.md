@@ -12,6 +12,10 @@ ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_sophora_thread
 ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_sophora_webapp_profiler_durations
 ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_sophora_webapp_profiler_generations
 ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_sophora_webapp_queue
+
+ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_tomcat_requests
+ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_tomcat_threads
+ln -s /usr/share/munin/plugins/custom/jmx_ /etc/munin/plugins/jmx_tomcat_traffic
 ```
 * Konfigurieren in:
 ```
